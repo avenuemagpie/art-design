@@ -10,3 +10,4 @@ Peter Richards and George Gonzalez
 Exploratorium artists in residence, 1986
 
 Public Art, Exploratorium, Natural Input
+Neighborhood: Marina

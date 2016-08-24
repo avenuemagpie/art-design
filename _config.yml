@@ -9,7 +9,7 @@
 title: The Avenue Magpie
 email: saliem@avenuemagpie.net
 description: > # this means to ignore newlines until "baseurl:"
-  Personal thoughts and reflections on the arts, design and life in San Francisco by Saliem Chiu
+  Reflections and interpretations of art found by Saliem Chiu. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://avenuemagpie.net" # the base hostname & protocol for your site
 twitter_username: saliemchiu

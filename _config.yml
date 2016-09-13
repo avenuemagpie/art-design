@@ -6,10 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Avenue Magpie
+title: Avenue Magpie
 email: saliem@avenuemagpie.net
 description: > # this means to ignore newlines until "baseurl:"
-  Reflections and interpretations of art found by Saliem Chiu. 
+
+  Uncomposed thoughts on art. Drafts written in the mornings in a space meant to cultivate empathy and joy.
+  
+  I interpret art, deconstruct it, find out what it means to me, what it means to others as a way to procrastinate making art.
+  
+  Made with love in San Francisco, California. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://avenuemagpie.net" # the base hostname & protocol for your site
 twitter_username: saliemchiu

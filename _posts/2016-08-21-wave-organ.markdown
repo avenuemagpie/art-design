@@ -15,7 +15,7 @@ image:
 ---
 
 
-There is a sculpture is located in the Marina neighborhood in San Francisco. It can be found in between Crissy Fields and Fort Mason, off the eastern far end of the Golden Gate Yacht Club.
+There is a sculpture located in the Marina neighborhood in San Francisco. It can be found in between Crissy Fields and Fort Mason, off the eastern far end of the Golden Gate Yacht Club.
 
 ![Peter Richard's Wave Organ in San Francisco](/images/wave-organ-sf.jpg)
 

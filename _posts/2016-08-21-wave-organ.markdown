@@ -34,4 +34,4 @@ There is a quiet power behind experiencing the flow of water. How amazing it is 
 Now What? 
 ---
 
-I'm not sure. I've visited [Halprin’s lagoon and streams](http://experiments.californiahistoricalsociety.org/lawrence-halprin-and-the-letterman-digital-arts-center/), or Crissy field’s nature preserve / beaches for similar experiences. Better yet, I would love to visit and meditate in the still steam pools of Iceland that’s being touted all over social media. I'd love to make and share a piece of art that uses either man-made or natural inputs. Thoughts on this anyone?
+If I had a backyard it would make sense to make a quietly flowing pond full koi. Since I don't I visit [Halprin’s lagoon and streams](http://experiments.californiahistoricalsociety.org/lawrence-halprin-and-the-letterman-digital-arts-center/), or Crissy field’s nature preserve / beaches for similar experiences. Better yet, I would love to visit and meditate in the still steam pools of Iceland that’s being touted all over social media. I'd love to make and share a piece of art that uses either man-made or natural inputs. Thoughts on this anyone?

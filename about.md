@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: About AM
 permalink: /about-avenue-magpie/
 ---
 
@@ -18,6 +18,6 @@ At Avenue Magpie I catalogue art I find to inform my own personal art & design p
 
 I consider myself a design researcher. I aim to design tools to support stronger communities. 
 
-Saliem Chiu, Avenue Magpie.
+Saliem Chiu.
 
 

@@ -14,10 +14,10 @@ or \\
 judgement. But only to gauge \\
 life’s joys experienced. 
 
-AM
-
 At Avenue Magpie I catalogue art I find to inform my own personal art & design projects. 
 
 I consider myself a design researcher. I aim to design tools to support stronger communities. 
+
+Saliem Chiu, Avenue Magpie.
 
 

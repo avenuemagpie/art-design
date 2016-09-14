@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About AM
+title: About
 permalink: /about-avenue-magpie/
 ---
 

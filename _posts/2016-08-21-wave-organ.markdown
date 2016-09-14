@@ -3,7 +3,7 @@ layout: post
 identifier: wave-organ
 title:  "The Wave Organ"
 date:   2016-08-21
-summary: Artist, Peter Richards, the Exploratorium. May 1986
+summary: Artist, Peter Richards, the Exploratorium. San Francisco, California. May 1986
 comments: true
 image:
 

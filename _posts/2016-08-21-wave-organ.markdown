@@ -3,7 +3,7 @@ layout: post
 identifier: wave-organ
 title:  "The Wave Organ"
 date:   2016-08-21
-summary: In which I realize how much I identify with an unassuming art piece despite the fact I can’t take a selfie with it. Actually, I think I can. I could* set my ear against one of the PVC pipe openings, my fingers set in a peace sign. That might work...
+summary: Artist, Peter Richards, the Exploratorium. May 1986
 comments: true
 image:
 

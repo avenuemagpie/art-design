@@ -5,7 +5,7 @@ title:  "the wave organ"
 category: Arts
 date:   2016-08-21
 summary: Artists, Peter Richards & George Gonzalez, the Exploratorium. San Francisco, California. May 1986
-question: "Do you know of any pieces that use natural inputs? Manmade inputs? Or simply celebrates how we use and relate to water? Let me know in the comments below."
+question: "Do you know of any pieces that use natural inputs? Man-made inputs? Or pieces that simply celebrate how we use and relate to water? Let me know in the comments below."
 comments: true
 image:
 
@@ -16,7 +16,7 @@ image:
 
 ---
 
-> The wave organ sculpture is located in the Marina neighborhood in San Francisco. Find it hidden in between Crissy Fields and Fort Mason, and a quiet walking distance east of the Golden Gate Yacht Club.
+> The wave organ sculpture is located in the Marina neighborhood in San Francisco. Find it hidden in between Crissy Fields and Fort Mason, a quiet walking distance east of the Golden Gate Yacht Club.
 
 ![Wave Organ in San Francisco](/images/wave-organ-sf.jpg)
 
@@ -30,9 +30,9 @@ Past and Present
 
 ![Izumi Masatoshi's Tsukubai](/images/izumi-masatoshis-tsukubai.jpg)
 
-There is a quiet power behind experiencing the flow of water. How amazing it is that despite my being physically motionless, listening to the moving waters makes me feel very much alive. The clarity of the information source, minimally processed, unaltered, true to form, something rarely found in urban life is what draws me in conceptually. I have heard water flowing from artifically created streams, but it's just not the same thing. Clean water renews, heals, calms. Flowing water lulls minds into meditative thoughts. What does one do with an element that threatens to pull you into the depths of the San Francisco Bay? 
+There is a quiet power behind experiencing the flow of water. How amazing it is that despite my being physically motionless, listening to the moving waters makes me feel very much alive. The clarity of the information source, minimally processed, unaltered, true to form, something rarely found in urban life is what draws me in conceptually. I have heard water flowing from artifically created streams, but it's just not the same thing. Clean water renews, heals, calms. Flowing water lulls minds into meditative thoughts, some of those thoughts could quickly shift to that of alarm. What does one do with an element that threatens to pull you into the depths of the San Francisco Bay? 
 
-I like to think than answer can be found in the making of the wave organ. Approach the element with still confidence. Observe, be aware and become familiar with the tidal waves. Evaluate the water and then with some courage, create something wonderful.
+I like to think an answer can be found in the making of the wave organ. Approach the element with still confidence. Observe, be aware and become familiar with the tidal waves. Evaluate the water and then with some courage, create something wonderful.
 
 Now What? 
 ---

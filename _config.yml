@@ -8,15 +8,16 @@
 # Site settings
 title: avenue magpie
 email: saliem@avenuemagpie.net
-description: > # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
 
-  Uncomposed thoughts on art written by Saliem Chiu. Drafted in the mornings and meant to cultivate empathy and joy.
+ Avenue Magpie, drafted in the mornings is meant to cultivate empathy and joy.
   
-  I interpret art, deconstruct it, find out what it means to me, what it means to others.
+ I deconstruct the arts, designs and places to find out what they mean to me and what they mean to others.
   
 location: Made with love in San Francisco, California. 
 author: Saliem Chiu.
 profilephoto: /images/saliem-chiu.jpg
+credits: "Avenue Magpie is an art design and travel blog. © Copyright 2016 Saliem Chiu - All rights reserved."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://avenuemagpie.net" # the base hostname & protocol for your site

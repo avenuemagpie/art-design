@@ -5,6 +5,7 @@ title:  "the wave organ"
 category: Arts
 date:   2016-08-21
 summary: Artists, Peter Richards & George Gonzalez, the Exploratorium. San Francisco, California. May 1986
+question: "Do you know of any pieces that use natural inputs? Manmade inputs? Or simply celebrates how we use and relate to water? Let me know in the comments below <3"
 comments: true
 image:
 
@@ -38,4 +39,4 @@ Now What?
 
 ![Beach near Crissy Fields Nature Preserve](/images/crissy-field-nature-preserve.jpg)
 
-If I had a backyard it would make sense to make a quietly flowing pond full koi. Since I don't, I visit [Halprin’s lagoon and streams](http://experiments.californiahistoricalsociety.org/lawrence-halprin-and-the-letterman-digital-arts-center/), or Crissy field’s nature preserve / beaches for similar experiences. Better yet, I would love to visit and meditate in the still steam pools of Iceland that’s being touted all over social media. Perhaps I can make and share a piece of art that uses either man-made or natural inputs. Thoughts on this anyone?
+If I had a backyard it would make sense to make a quietly flowing pond full koi. Since I don't, I visit [Halprin’s lagoon and streams](http://experiments.californiahistoricalsociety.org/lawrence-halprin-and-the-letterman-digital-arts-center/), or Crissy field’s nature preserve / beaches for similar experiences. Better yet, I would love to visit and meditate in the still steam pools of Iceland that’s being touted all over social media. Perhaps I can make and share a piece of art that uses either man-made or natural inputs.

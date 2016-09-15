@@ -1,22 +1,24 @@
 ---
 layout: post
 identifier: wave-organ
+section: art in the open
+neighborhood: marina, san francisco
 title:  "the wave organ"
 category: Arts
 date:   2016-08-21
-summary: Artists, Peter Richards & George Gonzalez, the Exploratorium. San Francisco, California. May 1986
+summary: Peter Richards & George Gonzalez, the Exploratorium. San Francisco, California. May 1986
 question: "Do you know of any pieces that use natural inputs? Man-made inputs? Or pieces that simply celebrate how we use and relate to water? Let me know in the comments below."
 comments: true
 image:
 
   - url: /images/wave-organ-sf.jpg
-    alt: Peter Richards Wave Organ
-    title: Peter Richards Wave Organ in San Francisco
+    alt: Exploratorium Wave Organ
+    title: Exploratorium Wave Organ in San Francisco
 
 
 ---
 
-> The wave organ sculpture is located in the Marina neighborhood in San Francisco. Find it hidden in between Crissy Fields and Fort Mason, a quiet walking distance east of the Golden Gate Yacht Club.
+> Find the wave organ sculpture hidden in between Crissy Fields and Fort Mason, a quiet walking distance east of the Golden Gate Yacht Club.
 
 ![Wave Organ in San Francisco](/images/wave-organ-sf.jpg)
 

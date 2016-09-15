@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Travel
+title: TRAVEL
 permalink: /travel/
 ---

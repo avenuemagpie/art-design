@@ -9,12 +9,6 @@ date:   2016-08-21
 summary: Peter Richards & George Gonzalez, the Exploratorium. San Francisco, California. May 1986
 question: "Do you know of any pieces that use natural inputs? Man-made inputs? Or pieces that simply celebrate how we use and relate to water? Let me know in the comments below."
 comments: true
-image:
-
-  - url: /images/wave-organ-sf.jpg
-    alt: Exploratorium Wave Organ
-    title: Exploratorium Wave Organ in San Francisco
-
 
 ---
 

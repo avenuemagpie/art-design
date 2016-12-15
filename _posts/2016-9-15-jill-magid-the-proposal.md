@@ -17,6 +17,6 @@ I guess that’s where her genius lies though, in testing the limits and boundar
 
 Though really, if I was Luis Barragan, what would have been my choice? Would I have decided to become a diamond ring, would I have mind if someone purchased my entire estate of works, limiting access to it after I had passed. Why didn’t he and his lawyers do a better job on managing his legacy, and for that fact, his physical remains? I guess that just goes to show everyone that life will take many unexpected turns. Even after death.
 
-![The Offering](images/the-offering-tapete-de-flores-jill-magid.jpg)
+![The Offering](/images/the-offering-tapete-de-flores-jill-magid.jpg)
 
 

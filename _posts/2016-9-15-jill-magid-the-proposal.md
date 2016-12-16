@@ -19,4 +19,6 @@ Though really, if I was Luis Barragan, what would have been my choice? Would I h
 
 ![The Offering at the Walter McBean Gallery at the San Francisco Art Institute](/images/the-offering-tapete-de-flores-jill-magid.jpg)
 
+![Diamond made from the ashes of Luis Barragan](/images/luis-barragan-diamond.jpg)
+
 

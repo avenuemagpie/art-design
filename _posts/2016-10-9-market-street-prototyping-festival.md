@@ -2,7 +2,7 @@
 layout: post
 identifier: mspf-2016
 section: 
-title:  "2016 Market Street Prototyping Festival"
+title:  "2016 market street prototyping festival"
 category: Arts
 date:   2016-10-9
 summary: The Market Street Prototyping Festival. San Francisco, California. 2016

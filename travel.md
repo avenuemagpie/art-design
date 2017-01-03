@@ -15,7 +15,7 @@ permalink: /travel/
 * Paris
 * Zurich / Basel
 * Hong Kong
-* San Paulo
+* Sao Paulo
 * Beijing
 * Istanbul
 * Los Angeles

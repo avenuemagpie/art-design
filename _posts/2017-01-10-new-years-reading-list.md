@@ -15,7 +15,6 @@ comments: true
 
 * Understanding your users by Kathy Baxter (for DESIGN X475.3 - 001  User Research)
 * Designing your life by Bill Bernett & Dave Evans
-* Visual Explantions by Edwarde Tufte
-* Designing Connected Products by Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light & Alfred Lui
+* Enchanted Objects by David Rose
 
 I'll publish my notes here as I finish each book. 

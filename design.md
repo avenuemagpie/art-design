@@ -4,7 +4,7 @@ title: DESIGN
 permalink: /design/
 ---
 
-## Design
+## Useful, practical, fun things to do
 
 * How new design technologies often hook into existing human behaviors
 * Japanese tea garden zen

@@ -4,7 +4,7 @@ title: ARTS
 permalink: /arts/
 ---
 
-## Arts 
+## Ideas that crossed my mind... 
 
 * Publish photos (or start a series called drawn from a photo)
 * Harmony. Maybe of running trails, something with maps. Harmony 2D, Harmony 3D - for each routine that benefits your well being, map that to a tune or a set of tunes or harmonies played by a cambodian instrument that can be played at the end of the day/week. Or even map the tunes to how your week went. 

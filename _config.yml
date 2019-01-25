@@ -22,7 +22,7 @@ credits: "Avenue Magpie is a collection of art design and travel notes. © Copyr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://avenuemagpie.net" # the base hostname & protocol for your site
 twitter_username: saliemchiu
-github_username:  avenuemagpie
+github_username:  
 
 # Build settings
 markdown: kramdown

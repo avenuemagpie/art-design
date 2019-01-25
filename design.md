@@ -4,7 +4,7 @@ title: DESIGN
 permalink: /design/
 ---
 
-## 2017
+## Design
 
 * How new design technologies often hook into existing human behaviors
 * Japanese tea garden zen
@@ -17,25 +17,19 @@ permalink: /design/
 * Green coffee table
 * Flavor spice interaction
 * Wall light art
-* Matching blouses for Emma and zoey
-* Books for children review site ***
 * organize art activities
 * Visuals of ingredients in cookbooks
-* Mimic morning light in Emma's room 
 * Deciding which walls to turn into a chalkboard and whiteboard
 * Crossbody Laptop bag from an air mattress
 * Dress from Drape Drape + electronics / tinkering
 * Car windshield that adjusts for better perception
 * planting a treesong bilingual book
 * interior design using glasswear / AR
-* Nanny sharing
 * Augmented reality, learning chinese
 * market street prototype art ideas,
-* stairwell lighting, chairs for families
 * Piet mondrian  light fixture and fan
 * Coffee table with space for live flowers,  not unlike Japanese hangings (Asian art exhibit,  Larry ellison
 * cat litter changer
-* Kids book recommendation system
 * My to dos on a map, 
 * Ways to reduce / reuse resources like water (drought) - Green building usgbc-ncc
 * Mind maps,  associations,  logos http://styletil.es/, Interaction for location based reminders

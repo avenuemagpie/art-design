@@ -4,7 +4,7 @@ title: ARTS
 permalink: /arts/
 ---
 
-## 2017 
+## Arts 
 
 * Publish photos (or start a series called drawn from a photo)
 * Harmony. Maybe of running trails, something with maps. Harmony 2D, Harmony 3D - for each routine that benefits your well being, map that to a tune or a set of tunes or harmonies played by a cambodian instrument that can be played at the end of the day/week. Or even map the tunes to how your week went. 
@@ -26,7 +26,6 @@ permalink: /arts/
 * Something shaped as glasses and shoes, about perception, video.  Shoes and glasses god gave me
 * Painting of a women in SE garments, soft feminine, sleeping in the sky, sea, wandering through a field of red flowers
 * Making something digital physical
-* Elizabeth mitchell inspired
 * Triangles of safe neighborhoods around the city. Have other families contribute.**
 * Dot paintings. Over nature scenery. Where is my grid?
 * Maps of surin and hong kong
@@ -34,7 +33,6 @@ permalink: /arts/
 * Paper anvil animation
 * Flattening, superimposing memories. Identity
 * Food, Loves
-* Bright bright moon wall print
 * perspectives - unique 3D printed eye frames. glasses stream recorded life of another person 
 * AM animation
 * Bird Metaphors

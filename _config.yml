@@ -17,7 +17,7 @@ description:  # this means to ignore newlines until "baseurl:"
 location: Made with love in San Francisco, California. 
 author: Saliem Chiu.
 profilephoto: /images/saliem-chiu.jpg
-credits: "Avenue Magpie is a collection of art design and travel notes. © Copyright 2016 Saliem Chiu - All rights reserved."
+credits: "Avenue Magpie is a collection of art design and travel notes. © Copyright 2018 Saliem Chiu - All rights reserved."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://avenuemagpie.net" # the base hostname & protocol for your site

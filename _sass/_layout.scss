@@ -226,7 +226,6 @@
     h2 {
         font-size: 23px;
 		text-transform: lowercase;
-		font-family: "Lora";
 
         @include media-query($on-laptop) {
             font-size: 21px;

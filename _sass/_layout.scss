@@ -36,7 +36,6 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
-		font-family: "Lora";
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -199,6 +198,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+	font-family: "Lora";
 }
 
 
@@ -211,6 +211,7 @@
 }
 
 .post-title {
+	font-family: "Lora";
     font-size: 27px;
     letter-spacing: -1px;
     line-height: 1;
